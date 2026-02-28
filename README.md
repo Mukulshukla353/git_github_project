@@ -1,1 +1,1 @@
-# git_github_project
+This is a practice repository
